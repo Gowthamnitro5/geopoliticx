@@ -1,0 +1,12 @@
+{
+  "type": "Topology",
+  "objects": {
+    "countries": {
+      "type": "GeometryCollection",
+      "geometries": [
+        // Note: This is a placeholder. You'll need to download the actual TopoJSON world atlas data
+        // from https://github.com/topojson/world-atlas and place it in the public folder
+      ]
+    }
+  }
+}
